@@ -1,6 +1,3 @@
-# Oren Holtzman I.D: 209905207
-# Ishay Post I.D: 205415607
-
 # -*- coding: utf-8 -*-
 
 import numpy as np
